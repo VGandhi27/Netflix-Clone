@@ -4,10 +4,10 @@ Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look
 
 [![Practice](https://img.shields.io/badge/Practice-HTML/CSS/JS-orange.svg)](https://vgandhi27.github.io/Netflix-Clone/)
 
-_<p align="center">"Eating website for fun... nyom nyom nyom"</p>_
+<p align="center">"It's going to be HARD but hard does not man IMPOSSIBLE."</p>_
 
 <div align="center" style="text-align:center; margin:auto;">
-<img align="center" src="https://i.imgur.com/EgCvXyK.png" width="150"/>
+<img align="center" src="https://www.protocol.com/media-library/netflix-queried-people-in-a-survey-about-a-wide-range-of-features-and-content-including-podcasts-user-generated-playlists-how-tos-and-more.jpg?id=24541797&width=1245&quality=85&coordinates=0%2C314%2C0%2C315&height=700" width="400"/>
 </div>
 
 ## What it is
