@@ -30,7 +30,7 @@ A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepag
 - Tabs with Javascript
 - Positioning
 - CSS Flex
-- 
+
 ## Some cool stuff
 
 Usually, people tend to run to CSS Frameworks to develop and style tabs and switching tabs. But here's a pretty simple, basic way of creating switchable tab content using Vanilla JS:
@@ -87,7 +87,7 @@ Contributions are highly welcome. Feel free to fork, clone, make pull requests, 
 
 ## Acknowledgments
 - Many thanks to [@David J. Malan](https://github.com/dmalan) for his awesome courses 
-- Many thanks to [@Brian Yu](https://github.com/brianyu28) for his awesome courses - _i will not fail you sensei_
+- Many thanks to [@Brian Yu](https://github.com/brianyu28) for his awesome courses
 - Thanks to Harvard CS50 Courses.
 - And To anyone reading this... _You're awesome!_
 
@@ -96,5 +96,6 @@ _<p align="center">"The way to succeed is to double your failure rate."</p>_
 
 ## Contact Me
 
-You can reach me at https://github.com/VGandhi27/vgandhi27.github.io. Feel free to contact me for any Query related to this repository.
+You can reach me at https://github.com/VGandhi27/vgandhi27.github.io. 
+Feel free to contact me for any Query related to this repository.
 
