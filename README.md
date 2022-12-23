@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look](https://vgandhi27.github.io/Netflix-Clone/)
+Clone of the Netflix website as a light HTML CSS and JS exercise - [Take a look](https://vgandhi27.github.io/Netflix-Clone/)
 
 [![Practice](https://img.shields.io/badge/Practice-HTML/CSS/JS-orange.svg)](https://vgandhi27.github.io/Netflix-Clone/)
 
