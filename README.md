@@ -4,7 +4,7 @@ Clone of the Netflix website as a light HTML CSS and JS exercise - [Take a look]
 
 [![Practice](https://img.shields.io/badge/Practice-HTML/CSS/JS-orange.svg)](https://netflix-clone-56easfcm6-vgandhi27.vercel.app/)
 
-<p align="center">"It's going to be HARD but hard does not man IMPOSSIBLE."</p>_
+<p align="center">"It's going to be HARD but hard does not man IMPOSSIBLE."</p>
 
 <div align="center" style="text-align:center; margin:auto;">
 <img align="center" src="https://media2.themorningcontext.com/media/posts_images/thibault-penin-AWOl7qqsffM-unsplash-1.jpg" width="400"/>
@@ -96,6 +96,6 @@ _<p align="center">"The way to succeed is to double your failure rate."</p>_
 
 ## Contact Me
 
-You can reach me at https://github.com/VGandhi27/vgandhi27.github.io. 
+You can reach me at https://vidushigandhi.vercel.app/
 Feel free to contact me for any Query related to this repository.
 
