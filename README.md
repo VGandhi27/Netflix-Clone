@@ -1,13 +1,13 @@
 # Netflix Clone
 
-Clone of the Netflix website as a light HTML CSS and JS exercise - [Take a look](https://vgandhi27.github.io/Netflix-Clone/)
+Clone of the Netflix website as a light HTML CSS and JS exercise - [Take a look](https://netflix-clone-56easfcm6-vgandhi27.vercel.app/)
 
-[![Practice](https://img.shields.io/badge/Practice-HTML/CSS/JS-orange.svg)](https://vgandhi27.github.io/Netflix-Clone/)
+[![Practice](https://img.shields.io/badge/Practice-HTML/CSS/JS-orange.svg)](https://netflix-clone-56easfcm6-vgandhi27.vercel.app/)
 
 <p align="center">"It's going to be HARD but hard does not man IMPOSSIBLE."</p>_
 
 <div align="center" style="text-align:center; margin:auto;">
-<img align="center" src="https://www.protocol.com/media-library/netflix-queried-people-in-a-survey-about-a-wide-range-of-features-and-content-including-podcasts-user-generated-playlists-how-tos-and-more.jpg?id=24541797&width=1245&quality=85&coordinates=0%2C314%2C0%2C315&height=700" width="400"/>
+<img align="center" src="https://media2.themorningcontext.com/media/posts_images/thibault-penin-AWOl7qqsffM-unsplash-1.jpg" width="400"/>
 </div>
 
 ## What it is
